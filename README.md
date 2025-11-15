@@ -78,6 +78,12 @@ CSV File → Parsing → In-Memory Store → UI Components → Derived Totals
 
 ---
 
+## 📷 Screenshot of the Chart View
+
+<img width="936" height="517" alt="chart view" src="https://github.com/user-attachments/assets/939927d7-3198-41d6-be4e-79d4d1d8faf6" />
+
+---
+
 ## 🖥️ Local Development
 
 To run the project locally:
@@ -87,3 +93,4 @@ git clone https://github.com/Clayton-Klemm/Expense-Tracker.git
 cd Expense-Tracker
 npm install
 npm run dev
+```
