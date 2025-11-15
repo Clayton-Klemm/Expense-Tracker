@@ -1,7 +1,7 @@
 # 💸 Expense Tracker
 
 **Author:** Clayton Klemm  
-**Version:** 0.1  
+**Version:** 0.2  
 **Live Demo:** 👉 [https://clayton-klemm.github.io/Expense-Tracker/](https://clayton-klemm.github.io/Expense-Tracker/)
 
 ---
